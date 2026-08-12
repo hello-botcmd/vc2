@@ -1,0 +1,5 @@
+pyrofork
+py-tgcalls
+ntgcalls
+tgcrypto
+python-dotenv
